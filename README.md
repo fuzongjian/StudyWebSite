@@ -1,17 +1,17 @@
 # StudyWebSite		
-不错的学习网站纪录。	
+不错的学习网站。	
 
 React Native（RN）中文网站：http://reactnative.cn/docs/0.22/getting-started.html
 
 React Native（RN）英文网站：http://facebook.github.io/react-native/
 
-学堂在线：http://www.xuetangx.com（可以补充自己的课外知识）
+学堂在线：http://www.xuetangx.com
 
-后盾网论坛：http://bbs.houdunwang.com（前端、后端各种视频资源）
+后盾网论坛：http://bbs.houdunwang.com
 
-网易云课堂：http://study.163.com（课外知识很丰富）
+网易云课堂：http://study.163.com
 
-Code4App：http://code4app.com（有很多可以学习研究的东西）
+Code4App：http://code4app.com
 
-cocoachina：http://www.cocoachina.com（与Code4App类似）
+cocoachina：http://www.cocoachina.com
 
