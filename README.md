@@ -15,6 +15,6 @@ Code4App：http://code4app.com
 
 cocoachina：http://www.cocoachina.com
 
-项目托管测试（蒲公英）：https://www.pgyer.com（蒲公英）  
+项目托管测试（蒲公英）：https://www.pgyer.com  
 
 项目托管测试（fir.im）：http://fir.im
