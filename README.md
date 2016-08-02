@@ -15,3 +15,4 @@ Code4App：http://code4app.com
 
 cocoachina：http://www.cocoachina.com
 
+项目托管测试：https://www.pgyer.com（蒲公英）  http://fir.im（fir.im）
