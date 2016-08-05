@@ -18,3 +18,5 @@ cocoachina：http://www.cocoachina.com
 项目托管测试（蒲公英）：https://www.pgyer.com  
 
 项目托管测试（fir.im）：http://fir.im
+
+在线检验JSON格式是否正确：jsonlint.com
